@@ -38,7 +38,7 @@ streamlit run app.py
 
 ---
 <div>
-  <img src="Screenshots/Input.png" width="500"/>
-  <img src="Screenshots/Output.png" width="480"/>
+  <img src="Screenshots/Input.png" width="500" alt="Input" style="border:2px solid white"/>
+  <img src="Screenshots/Output.png" width="480" alt="Output" style="border:2px solid white"/>
 </div>
 Made with ❤️ by Saksham
